@@ -22,9 +22,20 @@ const reducers = combineReducers({
 
 const epicMiddleware = createEpicMiddleware()
 
-const middlewares = applyMiddleware(logger, epicMiddleware)
+const middlewares = []
 
-export const store = createStore(reducers, initialAppState, composeWithDevTools(middlewares))
+if (process.env.NODE_ENV !== 'production') {
+    middlewares.push(logger)
+    middlewares.push(epicMiddleware)
+} else {
+    middlewares.push(epicMiddleware)
+}
+
+export const store = createStore(
+    reducers,
+    initialAppState,
+    composeWithDevTools(applyMiddleware(...middlewares))
+)
 
 const combinedEpics = combineEpics(
     getCategoriesEpic,

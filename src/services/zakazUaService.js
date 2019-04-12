@@ -3,9 +3,9 @@ import {
     throwError // Not now
 } from 'rxjs'
 
-import ShopService from './shopService'
+import BaseShopService from './baseShopService'
 
-class ZakazUaService extends ShopService {
+class ZakazUaService extends BaseShopService {
     constructor({ withProxy }) {
         super()
 

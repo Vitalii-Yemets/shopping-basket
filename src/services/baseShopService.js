@@ -1,4 +1,4 @@
-class ShopService {
+class BaseShopService {
     getCategories() {
         throw new Error('Must be overriten.')
     }
@@ -8,4 +8,4 @@ class ShopService {
     }
 }
 
-export default ShopService
+export default BaseShopService
