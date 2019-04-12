@@ -1,15 +1,20 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 
-import { getCategories, selectedCategory } from '../../redux/actions'
-
-import BaseSpinnerService from '../../services/baseSpinnerService'
+import {
+  getCategories,
+  selectedCategory,
+  addToShoppingBasket,
+  removeToShoppingBasket
+} from '../../redux/actions'
 import ServicePool from '../../services/servicePool'
+import BaseSpinnerService from '../../services/baseSpinnerService'
 import { isDifferent } from 'jsutils/arrays'
 
 import Spinner from '../../components/Spinner'
 import Navbar from '../../components/Navbar'
 import Categories from '../../components/Categories'
+import CardProduct from '../../components/CardProduct'
 
 import './Shop.css'
 
@@ -31,8 +36,11 @@ class Shop extends Component {
 
   render = () => {
     const {
+      catalog,
       categories,
-      selectedCategory
+      selectedCategory,
+      addToShoppingBasket,
+      removeToShoppingBasket
     } = this.props
 
     const categoriesProps = {
@@ -47,7 +55,17 @@ class Shop extends Component {
         <div className='row text-center'>
           <Categories {...categoriesProps} />
           <div className='col-9'>
-            catalog
+            {
+              catalog && catalog.map((product, key) => {
+                const cardProductProps = {
+                  product,
+                  addToShoppingBasket,
+                  removeToShoppingBasket
+                }
+                
+                return <CardProduct key={key} {...cardProductProps} />
+              })
+            }
           </div>
         </div>
       </div>
@@ -56,12 +74,15 @@ class Shop extends Component {
 }
 
 const mapStateToProps = state => ({
-  categories: state.shopState.categories
+  categories: state.categories,
+  catalog: state.catalog
 })
 
 const mapDispatchToProps = dispatch => ({
   getCategories: () => dispatch(getCategories()),
-  selectedCategory: category => dispatch(selectedCategory(category))
+  selectedCategory: category => dispatch(selectedCategory(category)),
+  addToShoppingBasket: product => dispatch(addToShoppingBasket(product)),
+  removeToShoppingBasket: product => dispatch(removeToShoppingBasket(product)),
 })
 
 export default connect(mapStateToProps, mapDispatchToProps)(Shop)

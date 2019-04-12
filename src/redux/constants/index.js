@@ -10,6 +10,11 @@ import {
 } from './catalog'
 
 import {
+    ADD_TO_SHOPPING_BASKET,
+    REMOVE_FROM_SHOPPING_BASKET
+} from './shoppingBasket'
+
+import {
     ADD_NEW_NOTIFICATION,
     REMOVE_NOTIFICATION,
     UPDATE_NOTIFICATIONS
@@ -22,6 +27,9 @@ export {
 
     GET_CATALOG,
     SET_CATALOG,
+
+    ADD_TO_SHOPPING_BASKET,
+    REMOVE_FROM_SHOPPING_BASKET,
 
     ADD_NEW_NOTIFICATION,
     REMOVE_NOTIFICATION,

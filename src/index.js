@@ -6,10 +6,8 @@ import { store } from './store'
 
 import Routes from './routes'
 
-
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css'
-
 
 ReactDOM.render(
     <Provider store={store}>

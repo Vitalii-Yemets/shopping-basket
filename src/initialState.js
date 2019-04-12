@@ -1,7 +1,9 @@
-import initialShopState from './containers/Shop/initialState'
-
 const initialAppState = {
-    shopState: initialShopState
+    categories: [],
+    selectedCategory: null,
+    catalog: [],
+    notifications: [],
+    shoppingBasket: {}
 }
 
 export default initialAppState

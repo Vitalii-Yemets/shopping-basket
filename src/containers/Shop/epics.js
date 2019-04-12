@@ -20,7 +20,7 @@ export const getCatalogEpic = (action$, state$) => action$.pipe(
     ofType(SET_CATEGORIES, SELECTED_CATEGORY),
     withLatestFrom(state$),
     tap(servicePool.getService(BaseSpinnerService).showSpinner),
-    map(([action, state]) => state.shopState.selectedCategory.id),
+    map(([action, state]) => state.selectedCategory.id),
     switchMap(servicePool.getService(BaseShopService).getCatalog),
     tap(servicePool.getService(BaseSpinnerService).hideSpinner),
     map(setCatalog)

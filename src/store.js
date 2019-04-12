@@ -1,4 +1,4 @@
-import { createStore, combineReducers, applyMiddleware } from 'redux'
+import { createStore, applyMiddleware } from 'redux'
 import { createEpicMiddleware, combineEpics } from 'redux-observable'
 import { composeWithDevTools } from 'redux-devtools-extension'
 
@@ -16,10 +16,6 @@ import {
     getCatalogEpic
 } from './containers/Shop/epics'
 
-const reducers = combineReducers({
-    shopState: ReducerPool.getNewState
-})
-
 const epicMiddleware = createEpicMiddleware()
 
 const middlewares = []
@@ -32,7 +28,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 export const store = createStore(
-    reducers,
+    ReducerPool.getNewState,
     initialAppState,
     composeWithDevTools(applyMiddleware(...middlewares))
 )
