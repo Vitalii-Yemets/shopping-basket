@@ -1,0 +1,12 @@
+nav {
+    background-color: #48b54b;
+}
+
+nav>a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.cart-icon > img {
+    fill: #48b54b;
+}

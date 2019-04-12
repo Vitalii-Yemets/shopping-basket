@@ -1,0 +1,2331 @@
+{
+    "count": 294,
+    "filters": [
+        {
+            "type": "promotion",
+            "name": "Goods on sale",
+            "options": [
+                {
+                    "name": "Goods on sale",
+                    "query": 1,
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "type": "tm",
+            "name": "Brand",
+            "options": [
+                {
+                    "name": "Harry's",
+                    "query": "Harry's",
+                    "count": 5
+                },
+                {
+                    "name": "Ifood",
+                    "query": "Ifood",
+                    "count": 1
+                },
+                {
+                    "name": "RIGA ХЛІБ",
+                    "query": "RIGA ХЛІБ",
+                    "count": 7
+                },
+                {
+                    "name": "Schar",
+                    "query": "Schar",
+                    "count": 4
+                },
+                {
+                    "name": "selyanske",
+                    "query": "selyanske",
+                    "count": 1
+                },
+                {
+                    "name": "vitiograno",
+                    "query": "vitiograno",
+                    "count": 1
+                },
+                {
+                    "name": "Бкк",
+                    "query": "Бкк",
+                    "count": 1
+                },
+                {
+                    "name": "Житня Сила",
+                    "query": "Житня Сила",
+                    "count": 6
+                },
+                {
+                    "name": "КУЛИНИЧІ",
+                    "query": "КУЛИНИЧІ",
+                    "count": 18
+                },
+                {
+                    "name": "Київхліб",
+                    "query": "Київхліб",
+                    "count": 43
+                },
+                {
+                    "name": "Майстри Смаку",
+                    "query": "Майстри Смаку",
+                    "count": 75
+                },
+                {
+                    "name": "РУМ'ЯНЕЦЬ",
+                    "query": "РУМ'ЯНЕЦЬ",
+                    "count": 22
+                },
+                {
+                    "name": "Т.А.К",
+                    "query": "Т.А.К",
+                    "count": 3
+                },
+                {
+                    "name": "УкрЕкоХліб",
+                    "query": "УкрЕкоХліб",
+                    "count": 4
+                },
+                {
+                    "name": "Хлібіо",
+                    "query": "Хлібіо",
+                    "count": 6
+                },
+                {
+                    "name": "Цар хліб",
+                    "query": "Цар хліб",
+                    "count": 24
+                },
+                {
+                    "name": "ЮНІВЕРСАЛ",
+                    "query": "ЮНІВЕРСАЛ",
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "type": "weight",
+            "name": "Weight",
+            "options": [
+                {
+                    "name": "100g",
+                    "query": "100g",
+                    "count": 2
+                },
+                {
+                    "name": "1500g",
+                    "query": "1500g",
+                    "count": 1
+                },
+                {
+                    "name": "160g",
+                    "query": "160g",
+                    "count": 3
+                },
+                {
+                    "name": "170g",
+                    "query": "170g",
+                    "count": 2
+                },
+                {
+                    "name": "175g",
+                    "query": "175g",
+                    "count": 1
+                },
+                {
+                    "name": "180g",
+                    "query": "180g",
+                    "count": 2
+                },
+                {
+                    "name": "195g",
+                    "query": "195g",
+                    "count": 6
+                },
+                {
+                    "name": "200g",
+                    "query": "200g",
+                    "count": 11
+                },
+                {
+                    "name": "220g",
+                    "query": "220g",
+                    "count": 5
+                },
+                {
+                    "name": "225g",
+                    "query": "225g",
+                    "count": 2
+                },
+                {
+                    "name": "240g",
+                    "query": "240g",
+                    "count": 1
+                },
+                {
+                    "name": "250g",
+                    "query": "250g",
+                    "count": 11
+                },
+                {
+                    "name": "260g",
+                    "query": "260g",
+                    "count": 1
+                },
+                {
+                    "name": "270g",
+                    "query": "270g",
+                    "count": 1
+                },
+                {
+                    "name": "280g",
+                    "query": "280g",
+                    "count": 1
+                },
+                {
+                    "name": "290g",
+                    "query": "290g",
+                    "count": 1
+                },
+                {
+                    "name": "300g",
+                    "query": "300g",
+                    "count": 52
+                },
+                {
+                    "name": "310g",
+                    "query": "310g",
+                    "count": 3
+                },
+                {
+                    "name": "320g",
+                    "query": "320g",
+                    "count": 1
+                },
+                {
+                    "name": "325g",
+                    "query": "325g",
+                    "count": 5
+                },
+                {
+                    "name": "330g",
+                    "query": "330g",
+                    "count": 6
+                },
+                {
+                    "name": "350g",
+                    "query": "350g",
+                    "count": 25
+                },
+                {
+                    "name": "360g",
+                    "query": "360g",
+                    "count": 1
+                },
+                {
+                    "name": "370g",
+                    "query": "370g",
+                    "count": 1
+                },
+                {
+                    "name": "375g",
+                    "query": "375g",
+                    "count": 3
+                },
+                {
+                    "name": "380g",
+                    "query": "380g",
+                    "count": 1
+                },
+                {
+                    "name": "400g",
+                    "query": "400g",
+                    "count": 40
+                },
+                {
+                    "name": "40g",
+                    "query": "40g",
+                    "count": 4
+                },
+                {
+                    "name": "440g",
+                    "query": "440g",
+                    "count": 1
+                },
+                {
+                    "name": "450g",
+                    "query": "450g",
+                    "count": 7
+                },
+                {
+                    "name": "470g",
+                    "query": "470g",
+                    "count": 4
+                },
+                {
+                    "name": "475g",
+                    "query": "475g",
+                    "count": 2
+                },
+                {
+                    "name": "500g",
+                    "query": "500g",
+                    "count": 25
+                },
+                {
+                    "name": "515g",
+                    "query": "515g",
+                    "count": 1
+                },
+                {
+                    "name": "600g",
+                    "query": "600g",
+                    "count": 14
+                },
+                {
+                    "name": "650g",
+                    "query": "650g",
+                    "count": 5
+                },
+                {
+                    "name": "700g",
+                    "query": "700g",
+                    "count": 7
+                },
+                {
+                    "name": "720g",
+                    "query": "720g",
+                    "count": 1
+                },
+                {
+                    "name": "750g",
+                    "query": "750g",
+                    "count": 3
+                },
+                {
+                    "name": "800g",
+                    "query": "800g",
+                    "count": 4
+                },
+                {
+                    "name": "80g",
+                    "query": "80g",
+                    "count": 2
+                },
+                {
+                    "name": "900g",
+                    "query": "900g",
+                    "count": 2
+                },
+                {
+                    "name": "90g",
+                    "query": "90g",
+                    "count": 4
+                },
+                {
+                    "name": "950g",
+                    "query": "950g",
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "type": "country",
+            "name": "Country",
+            "options": [
+                {
+                    "name": "ukraine",
+                    "query": "ukraine",
+                    "count": 30
+                }
+            ]
+        },
+        {
+            "type": "base",
+            "name": "Base",
+            "options": [
+                {
+                    "name": "bran",
+                    "query": "bran",
+                    "count": 2
+                },
+                {
+                    "name": "buckwheat",
+                    "query": "buckwheat",
+                    "count": 14
+                },
+                {
+                    "name": "corn",
+                    "query": "corn",
+                    "count": 4
+                },
+                {
+                    "name": "grain",
+                    "query": "grain",
+                    "count": 14
+                },
+                {
+                    "name": "grains",
+                    "query": "grains",
+                    "count": 1
+                },
+                {
+                    "name": "oat",
+                    "query": "oat",
+                    "count": 4
+                },
+                {
+                    "name": "rice",
+                    "query": "rice",
+                    "count": 4
+                },
+                {
+                    "name": "rye",
+                    "query": "rye",
+                    "count": 55
+                },
+                {
+                    "name": "rye-wheat",
+                    "query": "rye-wheat",
+                    "count": 49
+                },
+                {
+                    "name": "wheat",
+                    "query": "wheat",
+                    "count": 55
+                },
+                {
+                    "name": "with sprouted grains",
+                    "query": "with sprouted grains",
+                    "count": 1
+                },
+                {
+                    "name": "with sprouted wheat",
+                    "query": "with sprouted wheat",
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "method",
+            "name": "Method",
+            "options": [
+                {
+                    "name": "cut",
+                    "query": "cut",
+                    "count": 1
+                },
+                {
+                    "name": "cutting",
+                    "query": "cutting",
+                    "count": 62
+                },
+                {
+                    "name": "french",
+                    "query": "french",
+                    "count": 1
+                },
+                {
+                    "name": "half",
+                    "query": "half",
+                    "count": 30
+                },
+                {
+                    "name": "malty",
+                    "query": "malty",
+                    "count": 4
+                },
+                {
+                    "name": "on the hop",
+                    "query": "on the hop",
+                    "count": 1
+                },
+                {
+                    "name": "scalded",
+                    "query": "scalded",
+                    "count": 9
+                },
+                {
+                    "name": "spicy",
+                    "query": "spicy",
+                    "count": 1
+                },
+                {
+                    "name": "tinned",
+                    "query": "tinned",
+                    "count": 3
+                },
+                {
+                    "name": "without yeast",
+                    "query": "without yeast",
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "type": "flavor",
+            "name": "Flavor",
+            "options": [
+                {
+                    "name": "flaxseed",
+                    "query": "flaxseed",
+                    "count": 4
+                },
+                {
+                    "name": "honey",
+                    "query": "honey",
+                    "count": 1
+                },
+                {
+                    "name": "poppy",
+                    "query": "poppy",
+                    "count": 1
+                },
+                {
+                    "name": "seeds",
+                    "query": "seeds",
+                    "count": 6
+                },
+                {
+                    "name": "with bran",
+                    "query": "with bran",
+                    "count": 6
+                },
+                {
+                    "name": "with buckwheat",
+                    "query": "with buckwheat",
+                    "count": 1
+                },
+                {
+                    "name": "with carrot",
+                    "query": "with carrot",
+                    "count": 1
+                },
+                {
+                    "name": "with chia seeds",
+                    "query": "with chia seeds",
+                    "count": 1
+                },
+                {
+                    "name": "with chicken",
+                    "query": "with chicken",
+                    "count": 1
+                },
+                {
+                    "name": "with dates",
+                    "query": "with dates",
+                    "count": 1
+                },
+                {
+                    "name": "with garlic",
+                    "query": "with garlic",
+                    "count": 1
+                },
+                {
+                    "name": "with ham",
+                    "query": "with ham",
+                    "count": 1
+                },
+                {
+                    "name": "with nuts",
+                    "query": "with nuts",
+                    "count": 3
+                },
+                {
+                    "name": "with olives",
+                    "query": "with olives",
+                    "count": 1
+                },
+                {
+                    "name": "with onion",
+                    "query": "with onion",
+                    "count": 3
+                },
+                {
+                    "name": "with pumpkin seeds",
+                    "query": "with pumpkin seeds",
+                    "count": 1
+                },
+                {
+                    "name": "with sesame",
+                    "query": "with sesame",
+                    "count": 2
+                },
+                {
+                    "name": "with spices",
+                    "query": "with spices",
+                    "count": 1
+                },
+                {
+                    "name": "with sunflower seeds",
+                    "query": "with sunflower seeds",
+                    "count": 3
+                },
+                {
+                    "name": "with tomatoes",
+                    "query": "with tomatoes",
+                    "count": 1
+                },
+                {
+                    "name": "with vegetables",
+                    "query": "with vegetables",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "for",
+            "name": "For",
+            "options": [
+                {
+                    "name": "for a pizza",
+                    "query": "for a pizza",
+                    "count": 1
+                },
+                {
+                    "name": "for diabetics",
+                    "query": "for diabetics",
+                    "count": 1
+                },
+                {
+                    "name": "for sandwich",
+                    "query": "for sandwich",
+                    "count": 1
+                },
+                {
+                    "name": "for toasts",
+                    "query": "for toasts",
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "type": "size",
+            "name": "Size",
+            "options": [
+                {
+                    "name": "mini",
+                    "query": "mini",
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "ean": "04820140110874",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163982.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163982.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Toast bran bread Kulynychi European 350g",
+            "price": 1939,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1939
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "269.00cal",
+                "ingredient_protein": "8.70g",
+                "ingredient_fat": "3.80g"
+            },
+            "slug": "bread-kulynychi-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "кулиничи",
+                "website": "kulinichi.com",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02840381000000",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20190121.1548085520.ad72436478c_2019-01-21_Alexey/20190121.1548085520.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20181116.1542371375.ad72436478c_2018-11-16_Tatiana/20181116.1542371375.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20181116.1542371375.ad72436478c_2018-11-16_Tatiana/20181116.1542371375.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181116.1542371375.ad72436478c_2018-11-16_Tatiana/20181116.1542371375.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20181116.1542371375.ad72436478c_2018-11-16_Tatiana/20181116.1542371375.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547206691.ad72436478c_2019-01-11_Alexey/20190110.1547206691.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190110.1547206691.ad72436478c_2019-01-11_Alexey/20190110.1547206691.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190110.1547206691.ad72436478c_2019-01-11_Alexey/20190110.1547206691.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547206691.ad72436478c_2019-01-11_Alexey/20190110.1547206691.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190121.1548073535.ad72436478c_2019-01-21_Alexey/20190121.1548073535.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190121.1548073535.ad72436478c_2019-01-21_Alexey/20190121.1548073535.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190121.1548073535.ad72436478c_2019-01-21_Alexey/20190121.1548073535.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20190121.1548073535.ad72436478c_2019-01-21_Alexey/20190121.1548073535.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Light bun Ciabatta 80g",
+            "price": 999,
+            "weight": 80.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 999
+            },
+            "ingredients": [
+                "flour",
+                "salt",
+                "yeast",
+                "sunflower oil",
+                "leaven"
+            ],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "259.00cal",
+                "ingredient_protein": "7.00g",
+                "ingredient_fat": "1.50g",
+                "ingredient_carbohydrates": "55.80g"
+            },
+            "slug": "ciabatta-masters_of_taste-80g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820140110669",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463419.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463419.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463440.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463440.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463440.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463440.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463440.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463440.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1383463440.ad72436478c_2013-11-19/zakaz-HP-630-Notebook-PC.1383463440.SNB4C4B9.obj.0.3.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/zakaz-1001PXD.1385390180.ad72436478c_2013-11-29_oleg/zakaz-1001PXD.1385390180.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/zakaz-1001PXD.1385390180.ad72436478c_2013-11-29_oleg/zakaz-1001PXD.1385390180.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/zakaz-1001PXD.1385390180.ad72436478c_2013-11-29_oleg/zakaz-1001PXD.1385390180.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/zakaz-1001PXD.1385390180.ad72436478c_2013-11-29_oleg/zakaz-1001PXD.1385390180.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163766.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163766.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163766.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163766.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163766.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163766.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163766.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163766.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163737.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163737.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163737.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163737.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163737.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163737.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163737.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163737.SNFB30AD.obj.0.6.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Toast bread Kulynychi European 330g",
+            "price": 1879,
+            "weight": 348.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1879
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "280.00cal",
+                "ingredient_protein": "8.40g",
+                "ingredient_fat": "3.60g"
+            },
+            "slug": "bread-kulynychi-330g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "кулиничи",
+                "website": "kulinichi.com",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02840126000000",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20181116.1542371093.ad72436478c_2018-11-16_Tatiana/20181116.1542371093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Masters of taste Ms 300g",
+            "price": 1699,
+            "weight": 300.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1699
+            },
+            "ingredients": [
+                "flour",
+                "yeast",
+                "dough improver",
+                "salt"
+            ],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "252.00cal",
+                "ingredient_protein": "8.00g",
+                "ingredient_fat": "1.00g",
+                "ingredient_carbohydrates": "52.00g"
+            },
+            "slug": "bread-masters_of_taste-300g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02840382000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190121.1548085620.ad72436478c_2019-01-21_Alexey/20190121.1548085620.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20181116.1542371477.ad72436478c_2018-11-16_Tatiana/20181116.1542371477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20181116.1542371477.ad72436478c_2018-11-16_Tatiana/20181116.1542371477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181116.1542371477.ad72436478c_2018-11-16_Tatiana/20181116.1542371477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20181116.1542371477.ad72436478c_2018-11-16_Tatiana/20181116.1542371477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190110.1547206791.ad72436478c_2019-01-11_Alexey/20190110.1547206791.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190110.1547206791.ad72436478c_2019-01-11_Alexey/20190110.1547206791.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190110.1547206791.ad72436478c_2019-01-11_Alexey/20190110.1547206791.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547206791.ad72436478c_2019-01-11_Alexey/20190110.1547206791.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190121.1548073635.ad72436478c_2019-01-21_Alexey/20190121.1548073635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190121.1548073635.ad72436478c_2019-01-21_Alexey/20190121.1548073635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190121.1548073635.ad72436478c_2019-01-21_Alexey/20190121.1548073635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190121.1548073635.ad72436478c_2019-01-21_Alexey/20190121.1548073635.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Dark bun Ciabatta 80g",
+            "price": 999,
+            "weight": 80.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 999
+            },
+            "ingredients": [
+                "flour",
+                "salt",
+                "sunflower oil",
+                "yeast",
+                "leaven",
+                "malt"
+            ],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "259.00cal",
+                "ingredient_protein": "7.00g",
+                "ingredient_fat": "1.50g",
+                "ingredient_carbohydrates": "55.80g"
+            },
+            "slug": "ciabatta-masters_of_taste-80g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841513000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547211493.ad72436478c_2019-01-11_Alexey/20190110.1547211493.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Baguette Masters of taste Ms buckwheat 180g",
+            "price": 799,
+            "weight": 180.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 799
+            },
+            "ingredients": [
+                "flour",
+                "rye flour",
+                "buckwheat",
+                "drinking water",
+                "leaven",
+                "salt",
+                "improver",
+                "hlofa extract",
+                "onion fried",
+                "sunflower oil"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "240.00cal",
+                "ingredient_protein": "9.00g",
+                "ingredient_fat": "4.00g",
+                "ingredient_carbohydrates": "40.00g"
+            },
+            "slug": "baguette-masters_of_taste-180g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136401290",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20181001.1538038831.ad72436478c_2018-10-01_Tatiana/20181001.1538038831.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/1.1538039679.ad72436478c_2018-10-01_Tatiana/1.1538039679.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/1.1538039679.ad72436478c_2018-10-01_Tatiana/1.1538039679.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/1.1538039679.ad72436478c_2018-10-01_Tatiana/1.1538039679.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/1.1538039679.ad72436478c_2018-10-01_Tatiana/1.1538039679.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Kyivkhlib Kyivskyi Sliced White Loaf 250g",
+            "price": 860,
+            "weight": 314.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 860
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "287.00cal",
+                "ingredient_protein": "7.60g",
+                "ingredient_fat": "2.30g",
+                "ingredient_carbohydrates": "53.80g"
+            },
+            "slug": "long_loaf-kyivkhlib-250g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820174301804",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.200x200.jpeg",
+                "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.1350x1350.jpeg",
+                "s150x150": "https://img2.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.150x150.jpeg",
+                "s350x350": "https://img3.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.350x350.jpeg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.200x200.jpeg",
+                    "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.1350x1350.jpeg",
+                    "s150x150": "https://img2.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.150x150.jpeg",
+                    "s350x350": "https://img3.zakaz.ua/upload.version_1.0.9f270cb624f987105ae2c525d2e863f8.350x350.jpeg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163908.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163908.SNFB30AD.obj.0.8.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/Cartfresh-Laptop-1.1550163908.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163908.SNFB30AD.obj.0.8.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163908.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163908.SNFB30AD.obj.0.8.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/Cartfresh-Laptop-1.1550163908.ad72436478c_2019-02-15_Sergii_MEGAMARKET_Mari/Cartfresh-Laptop-1.1550163908.SNFB30AD.obj.0.8.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kulynychi European grain 350g",
+            "price": 1999,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1999
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {},
+            "slug": "bread-kulynychi-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "кулиничи",
+                "website": "kulinichi.com",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841330000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547211093.ad72436478c_2019-01-11_Alexey/20190110.1547211093.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/2.1547137870.ad72436478c_2019-01-10_Alexey/2.1547137870.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/2.1547137870.ad72436478c_2019-01-10_Alexey/2.1547137870.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/2.1547137870.ad72436478c_2019-01-10_Alexey/2.1547137870.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/2.1547137870.ad72436478c_2019-01-10_Alexey/2.1547137870.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Baguette Masters of taste Ms buckwheat 350g",
+            "price": 1699,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1699
+            },
+            "ingredients": [
+                "wheat flour",
+                "rye flour",
+                "buckwheat",
+                "drinking water",
+                "dry yeast megadodatok",
+                "salt",
+                "hlofa extract",
+                "onion",
+                "sunflower oil"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "240.00cal",
+                "ingredient_protein": "9.00g",
+                "ingredient_fat": "4.00g",
+                "ingredient_carbohydrates": "40.00g"
+            },
+            "slug": "baguette-masters_of_taste-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841015000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547208092.ad72436478c_2019-01-11_Alexey/20190110.1547208092.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Baguette Masters of taste Ms 300g",
+            "price": 1699,
+            "weight": 300.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1699
+            },
+            "ingredients": [
+                "wheat flour",
+                "daily blend dried ferment",
+                "drinking water"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "271.00cal",
+                "ingredient_protein": "9.00g",
+                "ingredient_fat": "1.00g",
+                "ingredient_carbohydrates": "60.00g"
+            },
+            "slug": "baguette-masters_of_taste-300g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820017486316",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20181001.1538037348.ad72436478c_2018-10-01_Tatiana/20181001.1538037348.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/1.1538037752.ad72436478c_2018-10-01_Tatiana/1.1538037752.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/1.1538037752.ad72436478c_2018-10-01_Tatiana/1.1538037752.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/1.1538037752.ad72436478c_2018-10-01_Tatiana/1.1538037752.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/1.1538037752.ad72436478c_2018-10-01_Tatiana/1.1538037752.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Kyivkhlib Belorussian Sliced Bread Half",
+            "price": 1189,
+            "weight": 366.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1189
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "214.00cal",
+                "ingredient_protein": "6.30g",
+                "ingredient_fat": "1.20g",
+                "ingredient_carbohydrates": "47.50g"
+            },
+            "slug": "bread-kyivkhlib-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136402426",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.200x200.jpeg",
+                "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.1350x1350.jpeg",
+                "s150x150": "https://img3.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.150x150.jpeg",
+                "s350x350": "https://img3.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.350x350.jpeg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.200x200.jpeg",
+                    "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.1350x1350.jpeg",
+                    "s150x150": "https://img3.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.150x150.jpeg",
+                    "s350x350": "https://img3.zakaz.ua/upload.version_1.0.df43fa86b74ba6c6c199d168f1befe14.350x350.jpeg"
+                }
+            ],
+            "title": "Kyiv long loaf (whole) Kyivkhlib 500g",
+            "price": 1229,
+            "weight": 500.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1229
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {},
+            "slug": "long_loaf-kyivkhlib-500g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136407193",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20180111.1540550094.ad72436478c_2018-11-01_Tatiana/20180111.1540550094.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/20180111.1540549994.ad72436478c_2018-11-01_Tatiana/20180111.1540549994.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540549994.ad72436478c_2018-11-01_Tatiana/20180111.1540549994.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180111.1540549994.ad72436478c_2018-11-01_Tatiana/20180111.1540549994.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20180111.1540549994.ad72436478c_2018-11-01_Tatiana/20180111.1540549994.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Kyivkhlib Gourmet cutting 450g",
+            "price": 2099,
+            "weight": 450.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2099
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {},
+            "slug": "long_loaf-kyivkhlib-450g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820153871137",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173888.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173888.SNFB30AD.obj.0.3.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173957.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173957.SNFB30AD.obj.0.4.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173957.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173957.SNFB30AD.obj.0.4.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173957.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173957.SNFB30AD.obj.0.4.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1426173957.ad72436478c_2015-03-13_Yana/zakaz-HP-630-Notebook-PC.1426173957.SNFB30AD.obj.0.4.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Kulynychi (sliced) 500g",
+            "price": 1560,
+            "weight": 502.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1560
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "278.00cal",
+                "ingredient_protein": "7.90g",
+                "ingredient_fat": "2.70g",
+                "ingredient_carbohydrates": "54.20g"
+            },
+            "slug": "long_loaf-kulynychi-500g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "кулиничи",
+                "website": "kulinichi.com",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820159020577",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684366.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684366.SN1741CD.obj.0.5.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684437.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684437.SN1741CD.obj.0.6.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684437.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684437.SN1741CD.obj.0.6.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684437.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684437.SN1741CD.obj.0.6.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-2-Notebook-PC.1417684437.ad72436478c_2014-12-07_Yana/zakaz-HP-630-2-Notebook-PC.1417684437.SN1741CD.obj.0.6.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Tsar hlib Ukrainian rye half 475g",
+            "price": 1239,
+            "weight": 450.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1239
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {},
+            "slug": "bread-tsar_hlib-475g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "цар хлиб",
+                "website": "hlebinvest.com.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820159020096",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134905.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134905.SNB4C4B9.obj.0.7.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134947.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134947.SNB4C4B9.obj.0.8.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134947.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134947.SNB4C4B9.obj.0.8.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134947.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134947.SNB4C4B9.obj.0.8.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-HP-630-Notebook-PC.1409134947.ad72436478c_2014-08-29_elena/zakaz-HP-630-Notebook-PC.1409134947.SNB4C4B9.obj.0.8.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Nyva Tsar hlib (sliced) 250g half",
+            "price": 860,
+            "weight": 242.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 860
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "268.00cal",
+                "ingredient_protein": "8.00g",
+                "ingredient_fat": "2.30g"
+            },
+            "slug": "long_loaf-tsar_hlib-250g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "цар хлиб",
+                "website": "hlebinvest.com.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c01542e7ddd34b2665ea11eedf8aaaed.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841212000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/1.1547136869.ad72436478c_2019-01-10_Alexey/1.1547136869.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547209492.ad72436478c_2019-01-11_Alexey/20190110.1547209492.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190110.1547209492.ad72436478c_2019-01-11_Alexey/20190110.1547209492.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20190110.1547209492.ad72436478c_2019-01-11_Alexey/20190110.1547209492.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547209492.ad72436478c_2019-01-11_Alexey/20190110.1547209492.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Buckwheat bread on leaven 350g",
+            "price": 1699,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1699
+            },
+            "ingredients": [
+                "wheat flour",
+                "rye flour",
+                "buckwheat",
+                "drinking water",
+                "dry yeast megadodatok",
+                "salt",
+                "hlofa extract",
+                "onion fried",
+                "sunflower oil"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "240.00cal",
+                "ingredient_protein": "9.00g",
+                "ingredient_fat": "4.00g",
+                "ingredient_carbohydrates": "40.00g"
+            },
+            "slug": "bread-masters_of_taste-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820017485722",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20181001.1538037149.ad72436478c_2018-10-01_Tatiana/20181001.1538037149.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/1.1538037552.ad72436478c_2018-10-01_Tatiana/1.1538037552.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/1.1538037552.ad72436478c_2018-10-01_Tatiana/1.1538037552.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/1.1538037552.ad72436478c_2018-10-01_Tatiana/1.1538037552.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/1.1538037552.ad72436478c_2018-10-01_Tatiana/1.1538037552.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Kyivkhlib Rye Belorussian Sliced Bread",
+            "price": 2160,
+            "weight": 696.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2160
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "214.00cal",
+                "ingredient_protein": "6.30g",
+                "ingredient_fat": "1.20g",
+                "ingredient_carbohydrates": "47.50g"
+            },
+            "slug": "bread-kyivkhlib-700g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "bkk.kiev.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136405472",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20181001.1538040455.ad72436478c_2018-10-01_Tatiana/20181001.1538040455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/1.1538042455.ad72436478c_2018-10-01_Tatiana/1.1538042455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/1.1538042455.ad72436478c_2018-10-01_Tatiana/1.1538042455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/1.1538042455.ad72436478c_2018-10-01_Tatiana/1.1538042455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/1.1538042455.ad72436478c_2018-10-01_Tatiana/1.1538042455.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kyivkhlib Baltic rye with sunflower seeds half 400g",
+            "price": 1589,
+            "weight": 400.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1589
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {},
+            "slug": "bread-kyivkhlib-400g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02840652000000",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190121.1548086321.ad72436478c_2019-01-21_Alexey/20190121.1548086321.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Masters of taste Ms rye half 250g",
+            "price": 1799,
+            "weight": 250.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1799
+            },
+            "ingredients": [
+                "wheat flour",
+                "rye flour",
+                "w/b mix",
+                "sugar",
+                "salt",
+                "pressed yeast",
+                "sunflower seeds",
+                "pumpkin seeds",
+                "cumin",
+                "molasses",
+                "raisins",
+                "hlofa extract",
+                "drinking water"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "259.00cal",
+                "ingredient_protein": "7.00g",
+                "ingredient_fat": "2.00g",
+                "ingredient_carbohydrates": "56.00g"
+            },
+            "slug": "bread-masters_of_taste-250g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136407186",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20180111.1540549894.ad72436478c_2018-11-01_Tatiana/20180111.1540549894.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/20180111.1540549794.ad72436478c_2018-11-01_Tatiana/20180111.1540549794.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540549794.ad72436478c_2018-11-01_Tatiana/20180111.1540549794.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180111.1540549794.ad72436478c_2018-11-01_Tatiana/20180111.1540549794.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20180111.1540549794.ad72436478c_2018-11-01_Tatiana/20180111.1540549794.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kyivkhlib Velvety rye cutting 350g",
+            "price": 2249,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2249
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {},
+            "slug": "bread-kyivkhlib-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841537000000",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20190110.1547211893.ad72436478c_2019-01-11_Alexey/20190110.1547211893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/1.1547137169.ad72436478c_2019-01-10_Alexey/1.1547137169.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/1.1547137169.ad72436478c_2019-01-10_Alexey/1.1547137169.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/1.1547137169.ad72436478c_2019-01-10_Alexey/1.1547137169.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/1.1547137169.ad72436478c_2019-01-10_Alexey/1.1547137169.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Masters of taste Ms 450g",
+            "price": 1099,
+            "weight": 450.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1099
+            },
+            "ingredients": [
+                "flour",
+                "yeast",
+                "salt",
+                "sugar",
+                "dough improver",
+                "water",
+                "sunflower oil",
+                "margarine"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "293.00cal",
+                "ingredient_protein": "8.00g",
+                "ingredient_fat": "3.00g",
+                "ingredient_carbohydrates": "59.00g"
+            },
+            "slug": "long_loaf-masters_of_taste-450g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136405090",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20180111.1540549694.ad72436478c_2018-11-01_Tatiana/20180111.1540549694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/20180111.1540549594.ad72436478c_2018-11-01_Tatiana/20180111.1540549594.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180111.1540549594.ad72436478c_2018-11-01_Tatiana/20180111.1540549594.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180111.1540549594.ad72436478c_2018-11-01_Tatiana/20180111.1540549594.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20180111.1540549594.ad72436478c_2018-11-01_Tatiana/20180111.1540549594.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kyivkhlib Baltic rye-wheat dark scalded 400g",
+            "price": 1529,
+            "weight": 400.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1529
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "236.00cal",
+                "ingredient_protein": "5.90g",
+                "ingredient_fat": "1.10g",
+                "ingredient_carbohydrates": "50.10g"
+            },
+            "slug": "bread-kyivkhlib-400g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02841571000000",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20190110.1547212293.ad72436478c_2019-01-11_Alexey/20190110.1547212293.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Masters of taste Ms half 225g",
+            "price": 599,
+            "weight": 225.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 599
+            },
+            "ingredients": [
+                "flour",
+                "pressed yeast",
+                "salt",
+                "sugar",
+                "dough improver",
+                "water",
+                "sunflower oil",
+                "margarine"
+            ],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "293.00cal",
+                "ingredient_protein": "8.00g",
+                "ingredient_fat": "3.00g",
+                "ingredient_carbohydrates": "59.00g"
+            },
+            "slug": "long_loaf-masters_of_taste-225g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820135850303",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/1.1493913555.ad72436478c_2017-05-04_Alexey/1.1493913555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Ukrekohlib with sprouted grains bread 330g",
+            "price": 1629,
+            "weight": 330.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1629
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "231.00cal",
+                "ingredient_protein": "9.97g",
+                "ingredient_fat": "11.41g",
+                "ingredient_carbohydrates": "22.23g"
+            },
+            "slug": "bread-ukrekohlib-330g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "укрэкохлеб",
+                "website": "ukrecohleb.com.ua",
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.08aa708c436371d285bf7f59c47d4be2.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.08aa708c436371d285bf7f59c47d4be2.16x16.png",
+                    "s64x64": "https://img3.zakaz.ua/upload.version_1.0.08aa708c436371d285bf7f59c47d4be2.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "novus02860447000000",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/2.1547138271.ad72436478c_2019-01-10_Alexey/2.1547138271.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/20190110.1547212393.ad72436478c_2019-01-11_Alexey/20190110.1547212393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20190110.1547212393.ad72436478c_2019-01-11_Alexey/20190110.1547212393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20190110.1547212393.ad72436478c_2019-01-11_Alexey/20190110.1547212393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20190110.1547212393.ad72436478c_2019-01-11_Alexey/20190110.1547212393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Ciabatta",
+            "price": 9999,
+            "weight": 0,
+            "unit": "kg",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 9999
+            },
+            "ingredients": [
+                "flour",
+                "salt",
+                "sunflower oil",
+                "yeast",
+                "leaven"
+            ],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "241.00cal",
+                "ingredient_protein": "9.00g",
+                "ingredient_fat": "1.00g",
+                "ingredient_carbohydrates": "49.00g"
+            },
+            "slug": "ciabatta-masters_of_taste",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "мастера вкуса",
+                "website": null,
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.32x32.png",
+                    "s16x16": "https://img3.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.63e0ee6d71c7ddbd7c7eb9b9b04af995.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820174301606",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img3.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/20180118.1516270576.ad72436478c_2018-01-18_KOSTYA/20180118.1516270576.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kulynychi rye 350g",
+            "price": 2149,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2149
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {},
+            "slug": "bread-kulynychi-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "кулиничи",
+                "website": "kulinichi.com",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820062050432",
+            "img": {
+                "s200x200": "https://img2.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img3.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img2.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20170504.1494048798.ad72436478c_2017-05-04_Alexey/20170504.1494048798.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/white-1001PXD.1353151234.ad72436478c_2012-11-22/white-1001PXD.1353151234.SNB75C7E.obj.0.6.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/white-1001PXD.1353151234.ad72436478c_2012-11-22/white-1001PXD.1353151234.SNB75C7E.obj.0.6.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/white-1001PXD.1353151234.ad72436478c_2012-11-22/white-1001PXD.1353151234.SNB75C7E.obj.0.6.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/white-1001PXD.1353151234.ad72436478c_2012-11-22/white-1001PXD.1353151234.SNB75C7E.obj.0.6.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Long loaf Rumyanets milk (sliced) 450g",
+            "price": 1969,
+            "weight": 528.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 1969
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {
+                "ingredient_energy": "247.00cal",
+                "ingredient_protein": "7.35g",
+                "ingredient_fat": "1.50g"
+            },
+            "slug": "long_loaf-rumyanets-450g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "румянец",
+                "website": "rumianets.ua",
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820062051620",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499848957.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499848957.SNDDE581.obj.0.4.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499849061.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499849061.SNDDE581.obj.0.5.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img3.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499849061.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499849061.SNDDE581.obj.0.5.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499849061.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499849061.SNDDE581.obj.0.5.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/zakaz-2-HP-630-Notebook-PC.1499849061.ad72436478c_2017-07-13_Slava/zakaz-2-HP-630-Notebook-PC.1499849061.SNDDE581.obj.0.5.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Rumyanets with flax seeds cutting bread 350g",
+            "price": 2349,
+            "weight": 448.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2349
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": "",
+            "nutrition_facts": {},
+            "slug": "bread-rumyanets-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "румянец",
+                "website": "rumianets.ua",
+                "logo": {
+                    "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.64x64.png"
+                }
+            }
+        },
+        {
+            "ean": "04820136405861",
+            "img": {
+                "s200x200": "https://img3.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                "s1350x1350": "https://img2.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                "s150x150": "https://img2.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                "s350x350": "https://img3.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+            },
+            "gallery": [
+                {
+                    "s200x200": "https://img3.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img2.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img3.zakaz.ua/20181001.1538040549.ad72436478c_2018-10-01_Tatiana/20181001.1538040549.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                },
+                {
+                    "s200x200": "https://img3.zakaz.ua/1.1538042553.ad72436478c_2018-10-01_Tatiana/1.1538042553.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+                    "s1350x1350": "https://img2.zakaz.ua/1.1538042553.ad72436478c_2018-10-01_Tatiana/1.1538042553.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+                    "s150x150": "https://img3.zakaz.ua/1.1538042553.ad72436478c_2018-10-01_Tatiana/1.1538042553.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+                    "s350x350": "https://img2.zakaz.ua/1.1538042553.ad72436478c_2018-10-01_Tatiana/1.1538042553.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+                }
+            ],
+            "title": "Bread Kyivkhlib Velvety rye-wheat half 350g",
+            "price": 2360,
+            "weight": 350.0,
+            "unit": "pcs",
+            "volume": null,
+            "price_wholesale": [],
+            "currency": "uah",
+            "discount": {
+                "status": false,
+                "value": 0,
+                "old_price": 2360
+            },
+            "ingredients": [],
+            "category_id": "bread",
+            "description": null,
+            "nutrition_facts": {
+                "ingredient_energy": "270.00cal",
+                "ingredient_protein": "14.40g",
+                "ingredient_fat": "4.30g",
+                "ingredient_carbohydrates": "46.30g"
+            },
+            "slug": "bread-kyivkhlib-350g",
+            "is_hit": false,
+            "in_stock": true,
+            "producer": {
+                "trademark": "киевхлеб",
+                "website": "kyivkhlib.ua",
+                "logo": {
+                    "s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+                    "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+                    "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+                }
+            }
+        }
+    ]
+}
