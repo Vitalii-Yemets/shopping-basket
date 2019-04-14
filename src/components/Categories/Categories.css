@@ -1,24 +1,30 @@
-li.list-group-item {
-    border: none;   
-    padding: .15rem 1.25rem;
+.categories {
+    width: 300px;
+    top: 65px;
+    bottom: 0;
+    position: absolute;
+    overflow: auto;
 }
 
-li.list-group-item:first-child {
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
+.categories>p {
+    padding: 25px 20px 30px;
+    margin: 0;
+    font-weight: 700;
 }
 
-li.list-group-item:last-child {
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
+.categories ul {
+    padding-left: 20px;
 }
 
-li.list-group-item:hover {
-    background-color: #48b54b;
-    color: #ffff;
+.categories ul li {
+    padding: 5px;
+    font-size: 15px;
 }
 
-li.list-group-item:active {
-    border-left: 2px solid #48b54b;
-    padding-left: 1.13rem;
+.categories ul li::first-letter {
+    text-transform: capitalize;
+}
+
+.categories ul li.active, .categories ul li:hover {
+    color: #48b54b;
 }

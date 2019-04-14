@@ -1,0 +1,12 @@
+.catalog {
+    top: 65px;
+    left: 320px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    overflow: auto;
+    padding: 10px;
+
+    display: flex;
+    flex-wrap: wrap;    
+}

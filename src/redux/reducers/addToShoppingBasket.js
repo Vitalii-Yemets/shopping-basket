@@ -8,6 +8,10 @@ class AddToShoppingBasket extends BaseReducer {
             const product = action.product
             const title = product.title
 
+            const stringPrice = product.price.toString()
+            const price = parseFloat(`${stringPrice.slice(0, stringPrice.length - 2)}.${stringPrice.slice(stringPrice.length - 2, stringPrice.length)}`)
+            const totalPrice = state.totalPrice + price
+
             const shoppingBasket = state.shoppingBasket.hasOwnProperty(title)
                 ? ({
                     ...state.shoppingBasket,
@@ -24,9 +28,9 @@ class AddToShoppingBasket extends BaseReducer {
                     }
                 })
 
-
             return {
                 ...state,
+                totalPrice,
                 shoppingBasket
             }
         }

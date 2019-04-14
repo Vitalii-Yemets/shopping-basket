@@ -3,18 +3,23 @@ import { Link } from 'react-router-dom'
 
 import './Navbar.css'
 
-import CartSvg from '../../assets/cart-24px.svg'
-
 class Navbar extends Component {
     render = () => {
-        return <nav className='navbar navbar-dark sticky-top justify-content-between'>
-            <a className="navbar-brand" href="http://www.zakaz.ua">
-                zakaz.ua
-            </a>
-            <Link className='cart-icon' to='/cart'>
-                <img src={CartSvg} alt='cart-img' />
+        const { productsCount, totalPrice } = this.props
+
+        return <div className='navbar'>
+            <a className='brand-logo' href='http://www.zakaz.ua'>zakaz.ua</a>
+
+            <Link className='basket-state' to='/shopping-basket'>
+                <div className='basket-state-content'>
+                    <span className='cart-icon-wrapper' data-badge={productsCount}>
+                        <i className="material-icons">shopping_cart</i>
+                    </span>
+                    <div className='total'>{totalPrice}</div>
+                </div>
             </Link>
-        </nav>
+
+        </div>
     }
 }
 

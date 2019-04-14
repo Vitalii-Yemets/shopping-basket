@@ -3,7 +3,8 @@ const initialAppState = {
     selectedCategory: null,
     catalog: [],
     notifications: [],
-    shoppingBasket: {}
+    shoppingBasket: {},
+    totalPrice: 0
 }
 
 export default initialAppState

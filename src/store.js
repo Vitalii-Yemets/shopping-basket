@@ -2,19 +2,11 @@ import { createStore, applyMiddleware } from 'redux'
 import { createEpicMiddleware, combineEpics } from 'redux-observable'
 import { composeWithDevTools } from 'redux-devtools-extension'
 
-// Initialization
 import './services'
-
 import logger from './logger'
-
 import initialAppState from './initialState'
-
-// Shop
 import ReducerPool from './redux/reducers'
-import {
-    getCategoriesEpic,
-    getCatalogEpic
-} from './containers/Shop/epics'
+import { getCategoriesEpic, getCatalogEpic } from './epics'
 
 const epicMiddleware = createEpicMiddleware()
 

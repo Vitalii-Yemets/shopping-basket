@@ -1,7 +1,7 @@
 import {
     GET_CATEGORIES,
     SET_CATEGORIES,
-    SELECTED_CATEGORY
+    SELECT_CATEGORY
 } from '../constants'
 
 export const getCategories = () => ({
@@ -13,7 +13,7 @@ export const setCategories = categories => ({
     categories
 })
 
-export const selectedCategory = category => ({
-    type: SELECTED_CATEGORY,
+export const selectCategory = category => ({
+    type: SELECT_CATEGORY,
     category
 })

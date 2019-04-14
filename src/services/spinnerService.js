@@ -1,4 +1,4 @@
-import BaseSpinnerService from './baseSpinnerService'
+import { BaseSpinnerService } from './baseSpinnerService'
 
 class SpinnerService extends BaseSpinnerService {
     constructor() {

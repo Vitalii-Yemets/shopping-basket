@@ -1,8 +1,8 @@
 import React from 'react'
 import { HashRouter as Router, Route, Redirect, Switch } from 'react-router-dom'
 
-import Shop from './containers/Shop'
-import ShoppingBasket from './containers/ShoppingBasket'
+import Shop from './components/Shop'
+import ShoppingBasket from './components/ShoppingBasket'
 
 export default () => <Router>
     <Switch>

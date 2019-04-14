@@ -1,7 +1,7 @@
 import {
     GET_CATEGORIES,
     SET_CATEGORIES,
-    SELECTED_CATEGORY
+    SELECT_CATEGORY
 } from './categories'
 
 import {
@@ -23,7 +23,7 @@ import {
 export {
     GET_CATEGORIES,
     SET_CATEGORIES,
-    SELECTED_CATEGORY,
+    SELECT_CATEGORY,
 
     GET_CATALOG,
     SET_CATALOG,

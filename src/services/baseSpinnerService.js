@@ -1,4 +1,8 @@
-class BaseSpinnerService {
+import { createContext } from 'react'
+
+export const SpinnerContext = createContext({})
+
+export class BaseSpinnerService {
     getSpinnerState() {
         throw new Error('Must be overriten.')
     }
@@ -11,5 +15,3 @@ class BaseSpinnerService {
         throw new Error('Must be overriten.')
     }
 }
-
-export default BaseSpinnerService

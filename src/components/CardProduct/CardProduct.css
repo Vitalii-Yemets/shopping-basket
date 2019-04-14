@@ -1,0 +1,102 @@
+.card {
+    list-style-position: inside;
+    border: 1px solid #eaeaea;
+    margin-top: -1px;
+    margin-left: -1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+.card-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.group-btn {
+    display: none;
+}
+
+.card.in-basket:hover .group-btn {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.remove-btn, .add-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.add-btn {
+    width: 40px;
+    height: 40px;
+    background-color: #48b54b;
+    color: #ffff;
+}
+
+.remove-btn {
+    width: 39px;
+    height: 39px;
+    border: 1px solid #48b54b;
+    background-color: #ffff;
+}
+
+.add-btn:active, .only-add-btn:active {
+    background-color: #0df115;
+}
+
+.remove-btn:active {
+    background-color: #a1a7a1;
+}
+
+.card .only-add-btn, .card.in-basket .only-add-btn, .card.in-basket:hover .only-add-btn {
+    display: none;
+}
+
+.card:hover .only-add-btn {
+    border-radius: 30px;
+    width: 150px;
+    height: 37px;
+    background-color: #48b54b;
+    color: #ffff;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.only-add-btn>span {
+    font-size: 16px;
+    text-align: center;
+}
+
+.only-add-btn i {
+    font-size: 14px;
+}
+
+.card-weight {
+    padding-right: 10px;
+    justify-self: flex-end;
+    align-self: flex-end;
+}

@@ -1,7 +1,7 @@
 import {
     getCategories,
     setCategories,
-    selectedCategory
+    selectCategory
 } from './categories'
 
 import {
@@ -17,7 +17,7 @@ import {
 export {
     getCategories,
     setCategories,
-    selectedCategory,
+    selectCategory,
     getCatalog,
     setCatalog,
     addToShoppingBasket,

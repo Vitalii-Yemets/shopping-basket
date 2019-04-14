@@ -1,24 +1,21 @@
 import React, { Component } from 'react'
-
+import classNames from 'classnames'
 import './Categories.css'
 
 class Categories extends Component {
     render = () => {
         const {
             categories,
+            selectCategory,
             selectedCategory
         } = this.props
 
-        return <div className='col-3'>
-            <p className='text-lg-center font-weight-bold p-3'>Товары</p>
-            <ul className='list-group'>
+        return <div className='categories'>
+            <p>Товары</p>
+            <ul>
                 {
                     categories.map((category, key) =>
-                        <li
-                            className='list-group-item text-lg-left list-group-item-mine'
-                            onClick={() => selectedCategory(category)}
-                            key={key}
-                        >
+                        <li className={classNames(category.id === selectedCategory.id ? 'active' : '')} onClick={() => selectCategory(category)} key={key} >
                             {category.title}
                         </li>
                     )

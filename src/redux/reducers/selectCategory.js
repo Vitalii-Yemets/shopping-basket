@@ -1,10 +1,10 @@
 import BaseReducer from './baseReducer'
 
-import { SELECTED_CATEGORY } from '../constants'
+import { SELECT_CATEGORY } from '../constants'
 
-class SelectedCategory extends BaseReducer {
+class SelectCategory extends BaseReducer {
     getNewState(state, action) {
-        if (action.type === SELECTED_CATEGORY) {
+        if (action.type === SELECT_CATEGORY) {
             const selectedCategory = action.category
 
             return {
@@ -17,4 +17,4 @@ class SelectedCategory extends BaseReducer {
     }
 }
 
-export default SelectedCategory
+export default SelectCategory
